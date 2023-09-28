@@ -1,6 +1,6 @@
 # HTTP Request Documentation
 
 ```cmd
-curl -X GET https://coffee-api.dicoding.dev/coffees -i
+curl -X GET <link code> -i
 
 ```
