@@ -13,7 +13,12 @@ Explanation:
 * `-i` provides detailed information about the response received (HTTP response headers).
 
 
+
 ```cmd
 curl -X POST -H "Content-Type: application/json" -d "{\"name\": \"contentName\"}" <link name>  -i
 
 ```
+
+Explanation: 
+
+* 
